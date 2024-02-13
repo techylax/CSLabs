@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lab0
+comment0.text=\n\ Lab0\ -\ Getting\ Started\ With\ Java\n\ This\ is\ a\ simple\ program\ to\ print\ paramters\ from\ the\ String\ along\ with\ Hello\ World\ .\n\ @author\ Laxman\ Poudel\ \n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Prints\ Hello\ World\!\ along\ with\ the\ argument\ we\ pass\n\ @param\ args\ The\ arguments\ we\ are\ having\ here\ is\ a\ String\ used\ is\ being\ printed\ after\ the\ text.\n\ \n
+numComments=2
